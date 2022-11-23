@@ -19,8 +19,8 @@
   "author": "lengdayu",
   "license": "ISC",
   "devDependencies": {
+    "axios": "^1.2.0",
     "commander": "^9.4.1",
-    "koa": "^2.13.4",
-    "koa-router": "^12.0.0"
+    "selenium-webdriver": "^4.6.1"
   }
 }
