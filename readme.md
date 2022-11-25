@@ -6,8 +6,7 @@
     - create // 项目创建指令
     - help // 帮助指令
     - splider // 爬虫指令
-  - utils // "xleng 工具文件"
-    - spilder // 爬虫方法
+  - utils // "爬虫方法"
 
 # commander
 
@@ -17,6 +16,14 @@
   - #!/usr/bin/env node
   - package.json 配置 `"bin" ：{ "xleng": "main.js" }`
 
-# koa koa-router
+# 创建实例
 
-#
+- npm i xleng -D
+
+- npm i -D
+
+- npm link(外层目录下执行)
+
+- xleng create (创建容器文件夹)
+
+- xleng download （获取网站数据）
