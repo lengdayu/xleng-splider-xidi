@@ -1,6 +1,6 @@
 {
   "name": "xleng-splider-xidi",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "xididemo node模块",
   "main": "main.js",
   "bin": {
@@ -12,9 +12,8 @@
   "keywords": [
     "xleng",
     "xidi",
-    "koa",
-    "koa-router",
-    "commander"
+    "commander",
+    "selenium-webdriver"
   ],
   "author": "lengdayu",
   "license": "ISC",
