@@ -18,6 +18,7 @@
   "author": "lengdayu",
   "license": "ISC",
   "devDependencies": {
+    "axios": "^1.2.0",
     "commander": "^9.4.1",
     "selenium-webdriver": "^4.6.1"
   }
