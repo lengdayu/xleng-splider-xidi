@@ -18,11 +18,13 @@
 
 # 创建实例
 
-- npm i xleng -D
+- [下载 chrome 浏览器驱动]("https://chromedriver.chromium.org/downloads"),选择对应版本
 
-- npm i -D
+- 将驱动所在位置添加到系统环境变量中
 
-- npm link(外层目录下执行)
+- npm i xleng-splider-xidi -g
+
+- npm i selenium-webdriver axios commander -g
 
 - xleng create (创建容器文件夹)
 
